@@ -1,0 +1,123 @@
+﻿id	author	documents	citations	total link strength
+1	"agrawal, shashank"	1	4	4
+2	"alagic, gorjan"	1	22	3
+3	"almashaqbeh, ghada"	1	0	7
+4	"ananth, prabhanjan"	1	4	4
+5	"aprile, matteo"	1	3	3
+6	"ayday, erman"	1	3	6
+7	"batalhão, tiago b."	1	14	4
+8	"bellare, mihir"	2	437	4
+9	"ben-efraim, aner"	1	3	0
+10	"broadbent, anne"	1	58	2
+11	"burchfield, hannah"	1	0	3
+12	"butler, kevin r. b."	1	3	6
+13	"canetti, ran"	2	34	8
+14	"chen, guanyu"	1	1	5
+15	"chen, hsin-ming"	1	6	4
+16	"chen, ke-horng"	1	6	4
+17	"choi, joseph i."	1	3	6
+18	"chung, kai-min"	1	7	3
+19	"clark, jeremy"	1	3	6
+20	"demirag, didem"	1	3	6
+21	"dowsley, rafael"	1	7	2
+22	"dulek, yfke"	1	22	3
+23	"durnoga, konrad"	1	3	3
+24	"dziembowski, stefan"	1	3	3
+25	"döttling, nico"	1	31	2
+26	"eldridge, harry"	1	0	4
+27	"erlich, yaniv"	1	0	7
+28	"fisch, ben a."	1	4	2
+29	"fitzsimons, joseph"	1	6	3
+30	"fitzsimons, joseph f."	1	14	4
+31	"freund, daniel"	1	4	2
+32	"gaddam, sivanarayana"	1	0	3
+33	"gao, yongliang"	1	1	5
+34	"georgiou, marios"	1	7	3
+35	"gershoni, jonathan"	1	0	7
+36	"goel, aarushi"	1	0	4
+37	"goyal, rishab"	1	22	1
+38	"goyal, vipul"	4	151	13
+39	"green, matthew"	2	0	6
+40	"gutoski, gus"	1	58	2
+41	"hemenway, brett"	1	36	4
+42	"ho, ming-chou"	1	6	4
+43	"hoang, viet tung"	2	437	4
+44	"holmgren, justin"	1	34	1
+45	"hou, y. thomas"	1	36	4
+46	"huang, shao-chang"	1	6	4
+47	"huang, yan"	1	48	4
+48	"ishai, yuval"	1	117	4
+49	"jafargholi, zahra"	2	38	5
+50	"jain, abhishek"	2	0	6
+51	"jung, taeho"	1	0	3
+52	"järvinen, kimmo"	1	26	3
+53	"karl, ryan"	1	0	3
+54	"katz, jonathan"	1	48	4
+55	"kazana, tomasz"	1	3	3
+56	"kettlewell, joshua a."	2	20	7
+57	"khan, khaled md"	1	9	2
+58	"kitamura, takuya"	1	2	3
+59	"kolesnikov, vladimir"	2	74	7
+60	"kothapalli, abhiram"	1	8	4
+61	"kraschewski, daniel"	1	31	2
+62	"krenn, stephan"	1	0	1
+63	"kumaresan, ranjit"	2	48	7
+64	"lai, ching-yi"	1	7	3
+65	"li, chunxu"	1	1	5
+66	"li, jin"	1	36	4
+67	"lin, feng"	1	1	5
+68	"liu, qipeng"	1	0	0
+69	"liu, yi-kai"	3	28	0
+70	"lorünser, thomas"	1	0	1
+71	"lou, wenjing"	1	36	4
+72	"mainetti, luca"	1	3	3
+73	"malkin, tal"	1	0	7
+74	"malluhi, qutaibah m."	1	9	2
+75	"malozemoff, alex j."	1	48	4
+76	"mannan, mohammad"	1	3	6
+77	"masserova, elisaweta"	1	8	4
+78	"mele, emanuele"	1	3	3
+79	"müller-quade, jörn"	2	38	4
+80	"naor, moni"	1	4	2
+81	"nilges, tobias"	1	7	2
+82	"nishide, takashi"	2	3	3
+83	"oechsner, sabine"	1	2	1
+84	"okamoto, eiji"	1	2	3
+85	"ostrovsky, rafail"	1	36	4
+86	"parno, bryan"	1	8	4
+87	"pe’er, itsik"	1	0	7
+88	"prabhakaran, manoj"	2	6	6
+89	"raghuraman, srinivasan"	1	0	3
+90	"roehsner, marie-christine"	2	20	7
+91	"rogaway, phillip"	2	437	4
+92	"roitburd-berman, anna"	1	0	7
+93	"rosen, alon"	1	4	4
+94	"sadeghi, ahmad-reza"	1	26	3
+95	"sahai, amit"	2	119	6
+96	"sattath, or"	1	0	0
+97	"scafuro, alessandra"	1	36	4
+98	"schaffner, christian"	1	22	3
+99	"schneider, thomas"	1	26	3
+100	"shen, rick shih-jye"	1	6	4
+101	"shinagawa, kazumasa"	1	2	3
+102	"sinha, rohit"	1	0	3
+103	"song, yifan"	1	8	4
+104	"speelman, florian"	1	22	3
+105	"stebila, douglas"	1	58	2
+106	"takeshita, jonathan"	1	0	3
+107	"tromer, eran"	1	0	7
+108	"van laer, gijs"	1	0	2
+109	"venkatesan, ramarathnam"	1	117	4
+110	"vergallo, roberto"	1	3	3
+111	"wadia, akshay"	2	119	6
+112	"walther, philip"	2	20	7
+113	"wang, yongge"	1	9	2
+114	"wen, duowu"	1	1	5
+115	"wichs, daniel"	1	36	4
+116	"xiao, yang"	1	36	4
+117	"zajac, michal"	1	3	3
+118	"zhang, ning"	1	36	4
+119	"zhang, zhe"	1	1	5
+120	"zhao, lianying"	1	3	6
+121	"zikas, vassilis"	1	7	3
+122	"zinkus, maximilian"	1	0	4

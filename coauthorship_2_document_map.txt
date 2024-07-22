@@ -1,0 +1,20 @@
+﻿id	author	documents	citations	total link strength
+8	"bellare, mihir"	2	437	4
+13	"canetti, ran"	2	34	0
+38	"goyal, vipul"	4	151	3
+39	"green, matthew"	2	0	2
+43	"hoang, viet tung"	2	437	4
+49	"jafargholi, zahra"	2	38	0
+50	"jain, abhishek"	2	0	2
+56	"kettlewell, joshua a."	2	20	4
+59	"kolesnikov, vladimir"	2	74	1
+63	"kumaresan, ranjit"	2	48	1
+69	"liu, yi-kai"	3	28	0
+79	"müller-quade, jörn"	2	38	0
+82	"nishide, takashi"	2	3	0
+88	"prabhakaran, manoj"	2	6	3
+90	"roehsner, marie-christine"	2	20	4
+91	"rogaway, phillip"	2	437	4
+95	"sahai, amit"	2	119	4
+111	"wadia, akshay"	2	119	4
+112	"walther, philip"	2	20	4

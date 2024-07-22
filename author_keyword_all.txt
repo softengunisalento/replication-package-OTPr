@@ -1,0 +1,73 @@
+﻿id	keyword	occurrences	total link strength
+1	adaptive security	1	2
+2	anonymous credential	1	3
+3	arithmetic garbled circuits	1	2
+4	bilinear diffie-hellman	1	4
+5	blockchain	2	6
+6	cash-like	1	7
+7	circuit garbling	1	3
+8	cloud computing	1	2
+9	cloud storage	1	4
+10	communication round complexity	1	3
+11	conjugate coding	1	6
+12	constant round mpc	1	2
+13	cryptographic protocol	1	2
+14	cryptography	1	6
+15	data access and usage control	1	4
+16	data-hiding states	1	6
+17	delegatable signatures	1	2
+18	delegation	2	6
+19	disposable message authentication codes	1	2
+20	double-spending	2	11
+21	e-cash	1	3
+22	electronic money	1	4
+23	garbled circuits	3	8
+24	garbling	1	3
+25	garbling schemes	1	4
+26	hardware tokens	1	4
+27	information theory	1	4
+28	information-theoretical security	1	3
+29	isolation assumption	1	4
+30	laconic ot	1	4
+31	local operations and classical communication	1	6
+32	local operations and classical communication (locc)	1	4
+33	mobile	1	7
+34	multiparty computation	1	4
+35	multiparty garbling	1	2
+36	no-cloning	1	1
+37	non-interactive mpc	1	3
+38	obfuscation	1	3
+39	oblivious transfer	4	18
+40	one-time backdoors	1	2
+41	one-time device	1	3
+42	one-time memories	1	2
+43	one-time memory	2	6
+44	one-time program	1	3
+45	one-time programs	5	23
+46	online/offline twoparty computation	1	2
+47	p2p	1	7
+48	policy compliance	1	2
+49	privacy	1	4
+50	provable security	1	4
+51	pseudorandom functions	1	3
+52	quantum computation	1	6
+53	quantum cryptography	3	7
+54	randomized encodings	1	3
+55	reflective architecture	1	7
+56	reusable garbled computation	1	2
+57	secret sharing	1	4
+58	secure function evaluation	1	4
+59	secure two-party computation	1	3
+60	security	1	7
+61	set membership encryption	1	4
+62	signature	1	3
+63	smart contract	1	4
+64	smart contracts	1	2
+65	tamper-proof hardware	1	3
+66	tee	1	2
+67	trusted execution	1	4
+68	trusted execution environment	2	10
+69	trusted hardware	1	3
+70	uc security	1	4
+71	universal composability	1	3
+72	yao's protocol	1	4
